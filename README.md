@@ -7,4 +7,4 @@ The following models were created:
 | FMNIST Dense Layer NN  | 87.1%    |
 | FMNIST CNN             | 92.6%   |
 | Tensorflow Flowers CNN | 63.9%    |
-| Tensorflow Flowers Transfer Learning | 80.1%   |
+| Tensorflow Flowers Transfer Learning | 81.6%   |
